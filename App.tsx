@@ -1,6 +1,6 @@
 import TabNavigater from "@/navigation/Tab";
 
-import { StyleSheet, Text, View, StatusBar } from "react-native";
+import { StatusBar } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import React from "react";
 
